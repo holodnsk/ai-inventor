@@ -1,3 +1,6 @@
+# 
+https://habr.com/ru/post/676128/
+
 # Inventor AI User Interface
 This project is a web interface to a large language model based on the T5 architecture that has been trained to solve inventive problems. Link to language model https://disk.yandex.ru/d/Y9W-zdavchobGw
 ### Run (developer config)
